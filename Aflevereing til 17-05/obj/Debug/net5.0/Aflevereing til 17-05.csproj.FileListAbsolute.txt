@@ -1,0 +1,16 @@
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\bin\Debug\net5.0\Aflevereing til 17-05.exe
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\bin\Debug\net5.0\Aflevereing til 17-05.deps.json
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\bin\Debug\net5.0\Aflevereing til 17-05.runtimeconfig.json
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\bin\Debug\net5.0\Aflevereing til 17-05.runtimeconfig.dev.json
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\bin\Debug\net5.0\Aflevereing til 17-05.dll
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\bin\Debug\net5.0\ref\Aflevereing til 17-05.dll
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\bin\Debug\net5.0\Aflevereing til 17-05.pdb
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\obj\Debug\net5.0\Aflevereing til 17-05.csprojAssemblyReference.cache
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\obj\Debug\net5.0\Aflevereing til 17-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\obj\Debug\net5.0\Aflevereing til 17-05.AssemblyInfoInputs.cache
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\obj\Debug\net5.0\Aflevereing til 17-05.AssemblyInfo.cs
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\obj\Debug\net5.0\Aflevereing til 17-05.csproj.CoreCompileInputs.cache
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\obj\Debug\net5.0\Aflevereing til 17-05.dll
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\obj\Debug\net5.0\ref\Aflevereing til 17-05.dll
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\obj\Debug\net5.0\Aflevereing til 17-05.pdb
+C:\Users\Omad\source\repos\Aflevereing til 17-05\Aflevereing til 17-05\obj\Debug\net5.0\Aflevereing til 17-05.genruntimeconfig.cache
